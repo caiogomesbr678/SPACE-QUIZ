@@ -50,4 +50,5 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/![Captura de tela 2024-12-01 104037](https://github.com/user-attachments/assets/b23322a3-f75d-44b7-8364-d73d5e36ec87))
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
