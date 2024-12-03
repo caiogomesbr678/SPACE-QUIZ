@@ -51,5 +51,5 @@ Join our community of developers creating universal apps.
 ## Screenshots
 
 ([App Screenshot](![Captura de tela 2024-12-03 191033](https://github.com/user-attachments/assets/bef8d387-6339-491b-b188-f4b6089c7d2f)
-))
+
 
